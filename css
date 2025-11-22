@@ -1,0 +1,33 @@
+ <style>
+        h1{
+            color: black;
+            background-color: blueviolet;
+        }
+      #tt{
+background-color: rgb(255,153,153,1);
+      }
+      #tp{
+        background-color:rgba( 255,204,153,1) ;
+      }
+      #ts{
+        background-color: rgba(204,229,255,1);
+      }
+      #tk{
+        background-color: rgba(255,230,204,1);
+      }
+      #tq{
+background-color:rgba(230,230,230,1);
+      }
+      #ti{
+background-color: rgba(204,255,204,1);
+      }
+      #tu{
+background-color: rgba(153,255,204,1);
+      }
+      #to{
+background-color: rgba(255,204,255,1);
+      }
+      #ta{
+        background-color: rgba(204,229,255,1);
+      }
+    </style>
